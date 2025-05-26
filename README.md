@@ -53,8 +53,7 @@ The **Support Intelligence Widget** is designed to help customer support teams i
 
 ## 📁 Project Resources
 - [Full Product Story](https://drive.google.com/drive/folders/1yIiHg5LTJBiIwgR-K973jnTa84tVjA1R)
-- [Presentation Deck] (https://docs.google.com/presentation/d/1-kP72b6B7modyOT5jWT01-4fmgoQC_Ei/edit?usp=drive_link&ouid=107280149988856912855&rtpof=true&sd=true)
--
+- [Presentation Deck](https://docs.google.com/presentation/d/1-kP72b6B7modyOT5jWT01-4fmgoQC_Ei/edit?usp=drive_link&ouid=107280149988856912855&rtpof=true&sd=true)
 
 ---
 
